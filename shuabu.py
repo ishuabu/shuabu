@@ -1,5 +1,5 @@
 #coding: utf-8
-#date: 刷微信步数
+#date: 刷微信步数.
 #usage: edit steps and ledongli's uid(u need to download this app) .That would be ok .Good luck. ^_^
 import requests
 import sys
